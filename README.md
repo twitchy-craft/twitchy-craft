@@ -1,0 +1,2 @@
+- 👋 Hi, I’m twitchy
+- 🌱 I’m currently learning Java
